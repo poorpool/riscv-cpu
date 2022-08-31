@@ -1,0 +1,2 @@
+CLKs     PCr           PCs           IRs          PCerr   Werr         LEDs         RegW  RDins        MemW  MDins
+001a     0000c     03108     fe0416e3     11     01000     00000013     0     00000000     0     00000000    Error!
